@@ -1,4 +1,4 @@
-from grim.cli.app import app
+from mytec.cli.app import app
 
 
 def main():
